@@ -996,4 +996,5 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.factory-V1.1-java \
     vendor.qti.ims.callinfo-V1.0-java \
     vendor.qti.ims.rcsconfig-V1.0-java \
-    vendor.qti.latency-V2.0-java
+    vendor.qti.latency-V2.0-java \
+    vendor.qti.gnss@3.0-service
